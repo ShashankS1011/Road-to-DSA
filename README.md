@@ -46,3 +46,22 @@ Study different algorithms like sorting algorithms (e.g., Bubble Sort, Merge Sor
 
 #### 4. Practice Problems on DSA: 
 Apply your knowledge by solving problems related to data structures and algorithms. Start with simple problems and gradually progress to more complex ones. Practice on online platforms, participate in coding competitions, and analyze solutions to enhance your problem-solving skills.
+
+
+### Classification:
+Data structures can be classified into two broad categories:
+
+- **Linear Data Structure:** A data structure in which data elements are arranged sequentially or linearly, where each element is attached to its previous and next adjacent elements, is called a linear data structure. Examples are array, stack, queue, etc.
+- **Non-linear Data Structure:** Data structures where data elements are not placed sequentially or linearly are called non-linear data structures. Examples are trees and graphs.
+
+### Applications of Data Structures:
+- **Databases:** Data structures play a crucial role in organizing and storing data within databases, enabling efficient retrieval and manipulation of information.
+- **Operating Systems:** Data structures are integral to the design and implementation of operating systems. They help manage system resources like memory and files.
+- **Computer Graphics:** Data structures are employed to represent various graphical elements, such as geometric shapes, in computer graphics applications.
+- **Artificial Intelligence:** Data structures are utilized to represent knowledge and information within artificial intelligence systems, facilitating data management and processing.
+
+### Advantages of Data Structures:
+- **Efficiency:** Data structures enable efficient storage and retrieval of data, particularly crucial in performance-critical applications.
+- **Flexibility:** Data structures provide a flexible means to organize and store data, simplifying modifications and manipulations as needed.
+- **Reusability:** Data structures can be reused across multiple programs and applications, reducing redundancy and promoting code efficiency.
+- **Maintainability:** Well-designed data structures enhance program understandability, ease of modification, and long-term maintainability.
