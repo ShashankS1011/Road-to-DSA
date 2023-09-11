@@ -36,7 +36,7 @@ An algorithm is a defined process or a set of well-defined instructions commonly
 
 Learning Data Structures and Algorithms (DSA) effectively involves breaking down the overall learning process into smaller, sequential steps. Here's a structured approach:
 
--- Understanding Time and Space Complexities: Begin by grasping the concepts of time and space complexities. These fundamental ideas are essential for assessing the efficiency of algorithms and data structures.
+1. Understanding Time and Space Complexities: Begin by grasping the concepts of time and space complexities. These fundamental ideas are essential for assessing the efficiency of algorithms and data structures.
 
 -- Learning the Basics of Individual Data Structures: Focus on gaining a solid understanding of various data structures such as arrays, linked lists, stacks, queues, trees, graphs, hash tables, and heaps. Learn how to implement and use them effectively.
 
