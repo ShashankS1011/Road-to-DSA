@@ -7,20 +7,19 @@ This repository covers a wide range of data structures and algorithms, including
 
 ### Data Structures:
 - Arrays
-Linked Lists
-Stacks
-Queues
-Trees (Binary Trees, AVL Trees, etc.)
-Graphs
-Hash Tables
-Heaps
-and more...
-Algorithms:
+- Linked Lists
+- Stacks
+- Queues
+- Trees (Binary Trees, AVL Trees, etc.)
+- Graphs
+- Hash Tables
+- Heaps
 
-Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
-Searching Algorithms (Linear Search, Binary Search, etc.)
-Graph Algorithms (Depth-First Search, Breadth-First Search, Dijkstra's Algorithm, etc.)
-Dynamic Programming
-Divide and Conquer
-Greedy Algorithms
-and more...
+### Algorithms:
+
+- Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
+- Searching Algorithms (Linear Search, Binary Search, etc.)
+- Graph Algorithms (Depth-First Search, Breadth-First Search, Dijkstra's Algorithm, etc.)
+- Dynamic Programming
+- Divide and Conquer
+- Greedy Algorithms
