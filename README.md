@@ -24,13 +24,15 @@ This repository covers a wide range of data structures and algorithms, including
 - Divide and Conquer
 - Greedy Algorithms
 
-### What is Data Structure?
+
+
+## What is Data Structure?
 A data structure can be described as a specific method for efficiently storing and organizing data within our devices. The primary objective of using data structures is to optimize time and space complexities. An efficient data structure minimizes memory usage and reduces execution time for data manipulation.
 
-### What is an Algorithm?
+## What is an Algorithm?
 An algorithm is a defined process or a set of well-defined instructions commonly employed to solve a particular set of problems or perform specific calculations. In simpler terms, it consists of a series of steps performed sequentially to accomplish a task.
 
-### How to Start Learning DSA?
+## How to Start Learning DSA?
 Learning Data Structures and Algorithms (DSA) effectively involves breaking down the overall learning process into smaller, sequential steps. Here's a structured approach:
 
 #### 1. Understanding Time and Space Complexities:
