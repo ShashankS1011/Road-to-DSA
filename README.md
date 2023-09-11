@@ -65,3 +65,13 @@ Data structures can be classified into two broad categories:
 - **Flexibility:** Data structures provide a flexible means to organize and store data, simplifying modifications and manipulations as needed.
 - **Reusability:** Data structures can be reused across multiple programs and applications, reducing redundancy and promoting code efficiency.
 - **Maintainability:** Well-designed data structures enhance program understandability, ease of modification, and long-term maintainability.
+
+
+
+| Aspect | Data Type | Data Structure |
+|----------|----------|----------|
+|Definition|A data type defines the type of data that a variable or object can hold. It specifies the nature of the data, such as integer, float, character, etc. |	A data structure defines how data is organized, stored, and accessed. It specifies the relationship and arrangement of data elements. |
+|Scope|	Data types are typically used to define the attributes of individual variables or objects.|	Data structures are used to organize and manage collections of data elements, often with a specific purpose |application in mind.|
+|Examples|	- int (integer) <br> - float (floating-point number) <br> - char (character)|	- Array <br> - Linked List <br> - Stack <br> - Queue <br> - Tree <br> - Graph <br> - Hash Table|
+|Purpose|	Data types ensure that variables or objects are correctly used and can help prevent type-related errors in programming.|	Data structures provide a way to store and manage collections of data efficiently, allowing for operations like insertion, deletion, and retrieval.|
+|Granularity|	Data types are concerned with individual variables and their values.|	Data structures deal with the arrangement and relationships among multiple data elements.|
